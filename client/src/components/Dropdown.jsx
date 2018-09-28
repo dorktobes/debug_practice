@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import PropTypes from 'prop-types';
 
@@ -15,4 +16,4 @@ Dropdown.propTypes = {
   })).isRequired,
 };
 
-export default Dropdown;
+export default { Dropdown };
